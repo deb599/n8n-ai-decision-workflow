@@ -6,5 +6,5 @@ Automate decision-making with this n8n workflow using OpenAI GPT. Reads options 
 
 1. Import `n8n-ai-decision-workflow.json` into your n8n editor.
 2. Set up credentials for Google Sheets and OpenAI.
-3. Adjust the Google Sheets IDs and ranges as needed.
+3. Create Google Sheets as per template.
 4. Run and enjoy automated decision analysis!
